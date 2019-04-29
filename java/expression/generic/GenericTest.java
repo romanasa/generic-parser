@@ -1,11 +1,10 @@
 package expression.generic;
 
-import expression.BaseTest;
-
 import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+import expression.BaseTest;
 
 /**
  * @author Georgiy Korneev (kgeorgiy@kgeorgiy.info)
